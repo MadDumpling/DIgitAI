@@ -161,14 +161,6 @@ Training uses:
 
 ## Troubleshooting
 
-### ModuleNotFoundError: No module named 'pandas'
-
-Install pandas:
-
-```bash
-pip install pandas
-```
-
 ### Virtual environment not activated
 
 Activate it:
